@@ -1,0 +1,14 @@
+dagster
+dagster-webserver
+requests
+beautifulsoup4
+python-dotenv
+pymongo
+dnspython
+sqlalchemy
+psycopg2-binary
+pandas
+matplotlib
+dlt[postgres,mongodb]
+dbt-core
+dbt-postgres

@@ -1,0 +1,10 @@
+.venv/
+_pycache_/
+*.pyc
+.env
+data/*.json
+images/*.png
+.dbt/
+target/
+logs/
+dbt_project/gold_dbt/profiles.yml
